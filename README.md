@@ -28,3 +28,11 @@
 ### Drawer Navigation: Access different screens.
 ## Screenshots
 ![Screenshot 2024-07-10 151702](https://github.com/SulemanaAbu/rn-assignment7-11355543/assets/151389012/012e5a57-94bd-4e70-8b00-d78f327bd18e)
+![Screenshot 2024-07-10 151804](https://github.com/SulemanaAbu/rn-assignment7-11355543/assets/151389012/7a89354e-9857-4edc-9fa5-d4762724078e)
+![Screenshot 2024-07-10 151825](https://github.com/SulemanaAbu/rn-assignment7-11355543/assets/151389012/1dc155b6-39d0-4945-9270-7887a4fa9f11)
+![Screenshot 2024-07-10 151902](https://github.com/SulemanaAbu/rn-assignment7-11355543/assets/151389012/9f419450-54bf-447d-a23f-351951c6e66f)
+![Screenshot 2024-07-10 151930](https://github.com/SulemanaAbu/rn-assignment7-11355543/assets/151389012/e07d753d-7b66-4f11-a5d5-d2715f8164c1)
+
+
+
+
